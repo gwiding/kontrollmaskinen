@@ -143,8 +143,6 @@ void utf2() {
 }
 
 
-
-
 void grid () {
   stroke(255, 150, 0);
 
